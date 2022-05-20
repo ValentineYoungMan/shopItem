@@ -1,0 +1,45 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "url": "#",
+            "name": "Lorem ipsum",
+            "price": "540.00",
+            "img1": "img1.jpg",
+            "img2": "img1-2.jpg"
+        },
+        {
+            "id": 2,
+            "url": "#",
+            "name": "Lorem ipsum",
+            "price": "540.00",
+            "img1": "img2.jpg",
+            "img2": "img2-2.jpg"
+        },
+        {
+            "id": 3,
+            "url": "#",
+            "name": "Lorem ipsum",
+            "price": "540.00",
+            "img1": "img3.jpg",
+            "img2": "img3-2.jpg"
+        },
+        {
+            "id": 4,
+            "url": "#",
+            "name": "Lorem ipsum",
+            "price": "540.00",
+            "img1": "img4.jpg",
+            "img2": "img4-2.jpg"
+        },
+        {
+            "id": 5,
+            "url": "#",
+            "name": "Lorem ipsum",
+            "price": "540.00",
+            "img1": "img5.jpg",
+            "img2": "img5-2.jpg"
+        }
+        
+    ]
+}
