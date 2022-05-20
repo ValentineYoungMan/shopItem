@@ -426,9 +426,9 @@ function loadProducts(data) {
         let template = `
                         <div data-pid="${productId}" class="shop-item">
                             <div class="shop-item-img ibg">
-                                <img src="img/${productImage1}" class="ibg-img item-img1" alt="">
+                                <img src="img/img-shopItem/${productImage1}" class="ibg-img item-img1" alt="">
                                 <div class="shop-item-img2 ibg">
-                                    <img src="img/${productImage2}" class="ibg-img item-img2" alt="">
+                                    <img src="img/img-shopItem/${productImage2}" class="ibg-img item-img2" alt="">
                                 </div>
                             </div>
                             <div class="shop-item-info">
