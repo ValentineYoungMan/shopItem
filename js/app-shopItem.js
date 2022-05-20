@@ -287,7 +287,6 @@ window.addEventListener('scroll', ()=>{
 //------------------------------
 
 const swiper = new Swiper('.block1-img-slider', {
-    modules: [Navigation],
 
      // Navigation arrows
   navigation: {
