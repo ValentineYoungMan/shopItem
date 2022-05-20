@@ -1,4 +1,4 @@
-import Swiper from 'swiper';
+import Swiper, { Navigation } from 'swiper';
 
 function DynamicAdapt(type) {
 	this.type = type;
