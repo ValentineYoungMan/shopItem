@@ -1,3 +1,5 @@
+import Swiper from 'swiper';
+
 function DynamicAdapt(type) {
 	this.type = type;
 }
