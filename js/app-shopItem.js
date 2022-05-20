@@ -394,7 +394,7 @@ function disabledButton (count, stepperInput) {
 //------------------------------
 
 async function getProducts() {
-    const file = "json/products.json";
+    const file = "json/json2/products.json";
     let response = await fetch(file, {
         method: "GET"
     });
